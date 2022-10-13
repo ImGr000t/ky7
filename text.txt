@@ -1,1 +1,11 @@
 Kuldeep Singh
+git innit
+git add .
+git commit -m " "
+git push origin master
+
+last three in loop
+
+git innit just once
+
+done
